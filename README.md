@@ -31,7 +31,10 @@ This repository demonstrates a simple username and password authentication progr
    ```
 
 2. Enter your username and password when prompted.
-
+```bash
+ Username: admin
+ Password: password123
+```
 ### Functionality
 
 The program prompts the user for a username and password. It then performs a basic check against predefined values (replace with your actual authentication logic). If the credentials match, a success message is displayed. Otherwise, an error message is shown.
