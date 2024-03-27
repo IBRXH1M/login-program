@@ -13,7 +13,7 @@ This repository demonstrates a simple username and password authentication progr
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/login-program.git
+   git clone https://github.com/IBRXH1M/login-program.git
    ```
 
 2. Install dependencies:
