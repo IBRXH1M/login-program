@@ -13,7 +13,7 @@ This repository demonstrates a simple username and password authentication progr
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/<your-username>/username-password-auth.git
+   git clone https://github.com/login-program.git
    ```
 
 2. Install dependencies:
@@ -27,7 +27,7 @@ This repository demonstrates a simple username and password authentication progr
 1. Run the program:
 
    ```bash
-   node index.ts
+   node index.js
    ```
 
 2. Enter your username and password when prompted.
